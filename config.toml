@@ -1,7 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "http://logicalbomb.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Logical Bomb"
+enableEmoji = true
 theme = "hyde"
+
+[taxonomies]
+  tag = "tags"
 
 [params]
   themeColor = "theme-base-0d"
