@@ -1,9 +1,0 @@
-baseURL = "http://logicalbomb.com/"
-enableEmoji = true
-languageCode = "en-us"
-theme = "hyde"
-title = "Logical Bomb"
-[params]
-themecolor = "theme-base-0d"
-[taxonomies]
-tag = "tags"
