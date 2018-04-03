@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logical Bomb</title>
-    <link>http://logicalbomb.com/</link>
-    <description>Recent content on Logical Bomb</description>
+    <title>Posts on Logical Bomb</title>
+    <link>http://logicalbomb.com/posts/</link>
+    <description>Recent content in Posts on Logical Bomb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Apr 2018 20:17:50 -0700</lastBuildDate>
     
-	<atom:link href="http://logicalbomb.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://logicalbomb.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
