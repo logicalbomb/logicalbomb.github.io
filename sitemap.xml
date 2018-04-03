@@ -3,30 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/intro/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://logicalbomb.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/post/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://logicalbomb.com/tags/</loc>
     <priority>0</priority>
   </url>
   
