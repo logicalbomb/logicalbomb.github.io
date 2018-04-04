@@ -1,7 +1,7 @@
 baseURL = "http://logicalbomb.com/"
 enableEmoji = true
 languageCode = "en-us"
-theme = "hyde"
+theme = "boss"
 title = "Logical Bomb"
 [params]
 themecolor = "theme-base-0d"
