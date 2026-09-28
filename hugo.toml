@@ -1,0 +1,34 @@
+baseURL = 'https://logicalbomb.com/'
+locale = 'en-us'
+title = 'Field notes for experiments'
+theme = 'hugo-xmin'
+
+[permalinks]
+  post = '/post/:year/:month/:day/:slug/'
+
+[[menu.main]]
+  name = 'Home'
+  url = ''
+  weight = 1
+[[menu.main]]
+  name = 'About'
+  url = 'about/'
+  weight = 2
+[[menu.main]]
+  name = 'Tags'
+  url = 'tags/'
+  weight = 3
+[[menu.main]]
+  name = 'Subscribe'
+  url = 'index.xml'
+  weight = 4
+
+[params]
+  description = 'Software development, engineering management, and leadership.'
+  footer = '&copy; Logical Bomb {Year} | [GitHub](https://github.com/logicalbomb)'
+
+[markup.goldmark.renderer]
+  unsafe = true   # allow raw HTML in posts (theme's default)
+
+[services.rss]
+  limit = 20
